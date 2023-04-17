@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on project
 - 💬 Ask me about anything
 - 📫 How to reach me: sbugrahan1903@gmail.com
-- ⚡ Fun fact: html, css, bootstrap
+- ⚡ Fun fact: html, css, scss, bootstrap

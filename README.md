@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Eyüp Saltuk. I'm a software developer.</h1>
+<h1 align="center">Hi 👋 everyone, My name is Eyüp Saltuk. I'm a software developer.</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
 - 🔭 I’m currently working on **frontend**

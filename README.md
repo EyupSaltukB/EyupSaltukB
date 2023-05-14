@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 everyone, My name is Eyüp Saltuk. I'm a software developer.</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
-<img align="right" alt="coding" width="400" src="https://gfycat.com/bigheartedgrimflea">
+<img align="right" alt="coding" width="400" src="https://gfycat.com/bigheartedgrimflea.gif">
 
 - 🔭 I’m currently working on **frontend**
 

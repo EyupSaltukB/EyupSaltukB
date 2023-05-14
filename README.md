@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **html, css, scss, bootstrap, javascript and i keep learning.**
 
+- 🤝🏻 I am open to job offers.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ey%c3%bcp-saltuk-beyhan-57777b275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ey%C3%BCp-saltuk-beyhan-57777b275/?originalSubdomain=tr" height="30" width="40" /></a>

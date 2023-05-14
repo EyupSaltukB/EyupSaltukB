@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Eyüp Saltuk. I'm a software developer.
 
 
 **EyupSaltukB/EyupSaltukB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

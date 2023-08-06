@@ -19,7 +19,7 @@
 
 - 🤝🏻 I am open to job offers.
 
-- 🟢 I like to paint my repo green. I don't like empty boxes.
+- 🟢 I like to paint my repo green. I don't like empty boxes. :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

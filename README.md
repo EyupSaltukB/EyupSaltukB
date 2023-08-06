@@ -19,6 +19,8 @@
 
 - 🤝🏻 I am open to job offers.
 
+- 🟢 I like to paint my repo green. I don't like empty boxes.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/esaltukb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ey%C3%BCp-saltuk-beyhan-57777b275/?originalSubdomain=tr" height="30" width="40" /></a>

@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sbugrahan1903@gmail.com**
 
-- ⚡ Fun fact **html, css, scss, bootstrap, javascript and i keep learning.**
+- ⚡ Fun fact **html, css, scss, bs, javascript, react and i keep learning.**
 
 - 🤝🏻 I am open to job offers.
 

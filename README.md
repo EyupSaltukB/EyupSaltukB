@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3> 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952hhj6i99vw3o1c3xygly2h0f48ztkroq3n28mxf0d&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 
-- 🧑‍💻 I'm currently coding...
+- 🧑‍💻 I work as a React & Frontend Developer and always aim for the most **functional**, **applicable** and **readable** code.
 
 - 🔭 I’m currently working on **react** and **front end**
 

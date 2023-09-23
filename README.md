@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sbugrahan1903@gmail.com**
 
-- ⚡ Fun fact **html, css, scss, bs, javascript, react and i keep learning.**
+- ⚡ **React & Front End**,**JavaScript**,**Redux**, **Tailwind**, **Node.js**,**Responsive Web Design**, **Firebase**,**API**, **SCSS**, **Bootstrap**, **JSON** **HTML5**, **CSS**
 
 - 🤝🏻 I am open to job offers.
 

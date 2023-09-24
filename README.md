@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sbugrahan1903@gmail.com**
 
-- ⚡ I can help with **React & Front End**, **JavaScript**, **Redux**, **Tailwind**, **Node.js**, **Responsive Web Design**, **Firebase**, **API**, **SCSS**, **Bootstrap**, **JSON**, **HTML5**, **CSS** issues.
+- ⚡ I can help with **React & Front End**.
 
 - 🤝🏻 I am open to job offers.
 

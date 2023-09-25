@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **sbugrahan1903@gmail.com**
+- 📫 How to reach me **sbugrahan1903@gmail.com** & **https://www.linkedin.com/in/esaltukb/**
 
 - ⚡ I can help with **React & Front End**.
 

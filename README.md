@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 everyone, My name is Eyüp Saltuk. I'm a Software & React - Front End Developer | React Native & Mobile Developer.</h1>
+<h1 align="center">Hi 👋🏻 everyone, My name is Eyüp Saltuk. I'm a Software & React - Front End Developer | React Native & Mobile Developer.</h1>
 <h3 align="center">A passionate software developer</h3> 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)">
 
@@ -33,7 +33,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupsaltukb&show_icons=true&locale=en&layout=compact" alt="eyupsaltukb" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyupsaltukb&show_icons=true&locale=en" alt="eyupsaltukb" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyupsaltukb&" alt="eyupsaltukb" /></p>

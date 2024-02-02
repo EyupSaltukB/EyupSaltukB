@@ -5,9 +5,7 @@
 
 - 🧑‍💻 I work as a React & Frontend Developer and always aim for the most **functional**, **applicable** and **readable** code.
 
-- 🔭 I’m currently working on **react** and **front end**
-
-- 🌱 I’m currently learning **front end**
+- 🔭 I’m currently working on **react** - **front end** - **react-native & mobile**
 
 - 👯 I’m looking to collaborate on **project**
 

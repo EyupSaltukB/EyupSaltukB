@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻 everyone, My name is Eyüp Saltuk.
+<h1 align="center">Hi 👋🏻 everyone, my name is Eyüp Saltuk.
   I'm a Software & React - Front End Developer | React Native & Mobile Developer.</h1>
 <h3 align="center">A passionate software developer</h3> 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)">

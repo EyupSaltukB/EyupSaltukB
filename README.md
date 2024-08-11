@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋🏻 everyone, my name is Eyüp Saltuk.
   I'm a Software & React - Front End Developer | React Native & Mobile Developer.</h1>
-<h3 align="center">A passionate software developer</h3> 
 
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 - 🧑‍💻 I work as a React & Frontend Developer and always aim for the most **functional**, **applicable** and **readable** code.

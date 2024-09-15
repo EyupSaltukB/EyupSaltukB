@@ -2,8 +2,7 @@
   I'm a Software & React - Front End Developer | React Native & Mobile Developer.</h1>
 
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-- 🧑‍💻 I work as a React & Frontend Developer and always aim for the most **functional**, **applicable** and **readable** code.
-
+ 🧑‍💻 𝐼 𝑤𝑜𝑟𝑘 𝑎𝑠 𝑎 𝑅𝑒𝑎𝑐𝑡 & 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟 𝑎𝑛𝑑 𝑎𝑙𝑤𝑎𝑦𝑠 𝑎𝑖𝑚 𝑓𝑜𝑟 𝑡ℎ𝑒 𝑚𝑜𝑠𝑡 **𝑓𝑢𝑛𝑐𝑡𝑖𝑜𝑛𝑎𝑙**, **𝑎𝑝𝑝𝑙𝑖𝑐𝑎𝑏𝑙𝑒** 𝑎𝑛𝑑 **𝑟𝑒𝑎𝑑𝑎𝑏𝑙𝑒** 𝑐𝑜𝑑𝑒.
 - 🔭 I’m currently working on **react** - **front end** - **react-native & mobile**
 
 - 👯 I’m looking to collaborate on **project**

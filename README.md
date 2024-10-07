@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻 everyone, my name is Eyüp Saltuk.
+<h1 align="center">Hi 👋🏻 everyone! My name is Eyüp Saltuk.
   I'm a Software & React - Front End Developer | React Native & Mobile Developer.</h1>
 
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
